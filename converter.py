@@ -1,5 +1,5 @@
 
-print("Hello user")
+print("\nHello user")
 
 miles = float(input("Enter distance in miles: "))
 
@@ -8,4 +8,4 @@ meters = kilometers * 1000
 
 print(f"\n{miles} miles is:")
 print(f"{kilometers} kilometers")
-print(f"{meters} meters")
+print(f"{meters} meters\n")
