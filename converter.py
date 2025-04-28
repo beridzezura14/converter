@@ -1,4 +1,5 @@
 
+print("Hello user")
 
 miles = float(input("Enter distance in miles: "))
 
